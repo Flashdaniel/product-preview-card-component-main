@@ -25,6 +25,7 @@ body {
   color: hsl(228, 12%, 48%);
   max-inline-size: 30rem;
   border-radius: 10px;
+  margin-block-start: 3rem;
 }
 
 .product img {
