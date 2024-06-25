@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [product preview card](https://product-preview-card-component-main30.netlify.app/)
 
 ## My process
 
